@@ -7,7 +7,7 @@ This Excel project involves creating a comprehensive Annual sales dashboard  rep
 
 # Project Objective
 
-The project objective is to create an Annual sales report for year 2022. So that, they can understand their customers and grow more and more sales and profit in year 2023.
+The project objective is to create an Annual sales report for year 2022. So to provide insightful information on their target audience and to increase sales and profit in the year 2023. 
 
 
 # Steps used in the entire project
@@ -41,7 +41,7 @@ The project objective is to create an Annual sales report for year 2022. So that
 
 1.)  Feburary and March month have the maximum sales.
 
-2.)  Women are more likely to buyas compared to men by 65%.
+2.)  Women are more likely to buy compared to men by 65%.
 
 3.)  Maharashtra, Karnataka and Uttar Pradesh are the top 3 states.
 
