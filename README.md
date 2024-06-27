@@ -5,7 +5,6 @@
 This Excel project involves creating a comprehensive Annual sales dashboard  report , which involves data cleaning, pivot tables, and visualizations. The goal is to provide a user-friendly dashboard where users can interact with the data in different ways.
 
 
-
 # Project Objective
 
 The project objective is to create an Annual sales report for year 2022. So that, they can understand their customers and grow more and more sales and profit in year 2023.
@@ -27,6 +26,8 @@ The project objective is to create an Annual sales report for year 2022. So that
 
 **Insights:** After the formation of the entire dashboard, useful insights are needed to be fetched out from the data so that no difficulty in understanding the project dashboard occur.
 
+
+
 # Dashboard 
 
  ![Anuual Sales Dashboard ](https://github.com/Kgithub0601/Annual-Sales-Report-Dashboard/assets/171867353/d6652272-0dc8-4381-8dd5-4e072c05caa8)
@@ -36,6 +37,7 @@ The project objective is to create an Annual sales report for year 2022. So that
 
 
 # Dashboard Insights
+
 
 1.)  Feburary and March month have the maximum sales.
 
@@ -53,9 +55,17 @@ The project objective is to create an Annual sales report for year 2022. So that
 # Project Learning 
 
 
-# Conclusion 
+1.)  Creation of interactive dashboards for online sales data analysis.
 
+2.)  Utilization of complex parameters for filter customization.
+
+3.)  Various visualization types used: bar graph, chart, pie chart, clustered bar graph, slicers, etc.
+
+
+# Conclusion 
+ 
 The Final Conclusion to improve Annual Sales would be to target the Adult age group women (30-49 years ) of states particularly Maharashtra, Karnataka and Uttar Pradesh by showing ads,providing coupons and good deal offers on Aamzon ,Flipkart and Myntra So that, the buy more and more which will eventually increase their sales.
+
 
 
 
